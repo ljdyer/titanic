@@ -18,7 +18,11 @@ Competition overview [here](https://www.kaggle.com/c/titanic/overview)
     <td>7 Jan 2021</td>
     <td>0.77511</td>
     <td>7359/13761</td>
-    <td>Random Forest model with available features: Pclass, Sex, SibSp, Parch</td>
+    <td>
+      <ul>
+        <li>Random Forest model with available features: Pclass, Sex, SibSp, Parch</li>
+      </ul>
+    </td>
     <td><a href="https://www.kaggle.com/alexisbcook/titanic-tutorial">Alexis Cook</a></td>
   </tr>
 
@@ -28,11 +32,13 @@ Competition overview [here](https://www.kaggle.com/c/titanic/overview)
     <td>0.78468 </td>
     <td>2320/13761</td>
     <td>
-    <ul>
-    <li>Data cleaning: fill in missing Age, Fare, Embarked, Deck (based on Cabin)</li>
-    <li>Binning: Fare, Age</li>
-    <li>New feature creation: Family_Size_Bin, Ticket_Freq</li>
-    Random forest model</td>
+      <ul>
+        <li>Data cleaning: fill in missing Age, Fare, Embarked, Deck (based on Cabin)</li>
+        <li>Binning: Fare, Age</li>
+        <li>New feature creation: Family_Size_Bin, Ticket_Freq</li>
+        <li>Random forest model</li>
+      </ul>
+    </td>
     <td><a href="https://towardsdatascience.com/machine-learning-with-the-titanic-dataset-7f6909e58280">Benedikt Droste</a></td>
   </tr>
 
