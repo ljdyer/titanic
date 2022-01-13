@@ -27,9 +27,11 @@ Competition overview [here](https://www.kaggle.com/c/titanic/overview)
     <td>13 Jan 2021</td>
     <td>0.78468 </td>
     <td>2320/13761</td>
-    <td>Data cleaning: fill in missing Age, Fare, Embarked, Deck (based on Cabin)<br>
-    Binning: Fare, Age<br>
-    New feature creation: Family_Size_Bin, Ticket_Freq<br>
+    <td>
+    <ul>
+    <li>Data cleaning: fill in missing Age, Fare, Embarked, Deck (based on Cabin)</li>
+    <li>Binning: Fare, Age</li>
+    <li>New feature creation: Family_Size_Bin, Ticket_Freq</li>
     Random forest model</td>
     <td><a href="https://towardsdatascience.com/machine-learning-with-the-titanic-dataset-7f6909e58280">Benedikt Droste</a></td>
   </tr>
