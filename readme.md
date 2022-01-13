@@ -14,7 +14,7 @@ Competition overview [here](https://www.kaggle.com/c/titanic/overview)
   </tr>
 
   <tr>
-    <td><a href="Version_1.ipnyb">Version 1</a></td>
+    <td><a href="Version_1.ipynb">Version 1</a></td>
     <td>7 Jan 2021</td>
     <td>0.77511</td>
     <td>7359/13761</td>
@@ -23,7 +23,7 @@ Competition overview [here](https://www.kaggle.com/c/titanic/overview)
   </tr>
 
   <tr>
-    <td><a href="Version_12.ipnyb">Version 12</a></td>
+    <td><a href="Version_12.ipynb">Version 12</a></td>
     <td>13 Jan 2021</td>
     <td>0.78468 </td>
     <td>2320/13761</td>
