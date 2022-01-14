@@ -14,16 +14,41 @@ Competition overview [here](https://www.kaggle.com/c/titanic/overview)
   </tr>
 
   <tr>
+    <td><a href="notebooks/Version_16.ipynb">Version 16</a></td>
+    <td>14 Jan 2021</td>
+    <td>0.78468</td>
+    <td>no change</td>
+    <td>
+      <ul>
+        <li>Label and one-hot encoding
+      </ul>
+    </td>
+    <td><a href="https://towardsdatascience.com/categorical-encoding-using-label-encoding-and-one-hot-encoder-911ef77fb5bd">Dinesh Yadav</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="notebooks/Version_15.ipynb">Version 15</a></td>
+    <td>14 Jan 2021</td>
+    <td>0.78708</td>
+    <td>1800/13675</td>
+    <td>
+      <ul>
+        <li>Added new feature 'Title'
+      </ul>
+    </td>
+    <td><a href="https://towardsdatascience.com/machine-learning-with-the-titanic-dataset-7f6909e58280">Benedikt Droste</a></td>
+  </tr>
+
+  <tr>
     <td><a href="notebooks/Version_12.ipynb">Version 12</a></td>
     <td>13 Jan 2021</td>
-    <td>0.78468 </td>
+    <td>0.78468</td>
     <td>2320/13761</td>
     <td>
       <ul>
         <li>Data cleaning: fill in missing Age, Fare, Embarked, Deck (based on Cabin)</li>
         <li>Binning: Fare, Age</li>
         <li>New feature creation: Family_Size_Bin, Ticket_Freq</li>
-        <li>Random forest model</li>
       </ul>
     </td>
     <td><a href="https://towardsdatascience.com/machine-learning-with-the-titanic-dataset-7f6909e58280">Benedikt Droste</a></td>
