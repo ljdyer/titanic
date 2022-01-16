@@ -37,9 +37,7 @@ Focusing on applying one technique at a time, referring to a range of different 
     <td>0.78468</td>
     <td>no change</td>
     <td>
-      <ul>
-        <li>Label and one-hot encoding
-      </ul>
+      Label and one-hot encoding
     </td>
     <td><a href="https://towardsdatascience.com/categorical-encoding-using-label-encoding-and-one-hot-encoder-911ef77fb5bd">Dinesh Yadav</a></td>
   </tr>
@@ -50,9 +48,7 @@ Focusing on applying one technique at a time, referring to a range of different 
     <td>0.78708</td>
     <td>1800/13675</td>
     <td>
-      <ul>
-        <li>Added new feature 'Title'
-      </ul>
+      Added new feature 'Title'
     </td>
     <td><a href="https://towardsdatascience.com/machine-learning-with-the-titanic-dataset-7f6909e58280">Benedikt Droste</a></td>
   </tr>
@@ -78,9 +74,7 @@ Focusing on applying one technique at a time, referring to a range of different 
     <td>0.77511</td>
     <td>7359/13761</td>
     <td>
-      <ul>
-        <li>Random Forest model with available features: Pclass, Sex, SibSp, Parch</li>
-      </ul>
+      Random Forest model with available features: Pclass, Sex, SibSp, Parch
     </td>
     <td><a href="https://www.kaggle.com/alexisbcook/titanic-tutorial">Alexis Cook</a></td>
   </tr>
