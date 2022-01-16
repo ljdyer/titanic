@@ -2,6 +2,8 @@
 
 Competition overview [here](https://www.kaggle.com/c/titanic/overview)
 
+Focusing on applying one technique at a time, referring to a range of different tutorials to build up a learning journal and library of resources for future reference.
+
 <table style="margin-left:auto; margin-right:auto">
 
   <tr>
