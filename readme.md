@@ -14,6 +14,22 @@ Competition overview [here](https://www.kaggle.com/c/titanic/overview)
   </tr>
 
   <tr>
+    <td><a href="notebooks/Version_18.ipynb">Version 18</a></td>
+    <td>16 Jan 2021</td>
+    <td>0.78947</td>
+    <td>1364/13444</td>
+    <td>
+      <ul>
+        <li>Hyperparameter optimization using RandomisedSearchCV and GridSearchCV
+      </ul>
+    </td>
+    <td>
+      <a href="https://www.kaggle.com/mohitsital/random-forest-hyperparameter-tuning">Mohit</a><br>
+      <a href="https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74">Will Koehrsen</a><br>
+      </td>
+  </tr>
+
+  <tr>
     <td><a href="notebooks/Version_16.ipynb">Version 16</a></td>
     <td>14 Jan 2021</td>
     <td>0.78468</td>
