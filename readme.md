@@ -21,14 +21,14 @@ Focusing on applying one technique at a time, referring to a range of different 
     <td>0.78947</td>
     <td>1364/13444</td>
     <td>
-      <ul>
-        <li>Hyperparameter optimization using RandomisedSearchCV and GridSearchCV
-      </ul>
+      Hyperparameter optimization using RandomisedSearchCV and GridSearchCV
     </td>
     <td>
-      <a href="https://www.kaggle.com/mohitsital/random-forest-hyperparameter-tuning">Mohit</a><br>
-      <a href="https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74">Will Koehrsen</a><br>
-      </td>
+      <ul>
+        <li><a href="https://www.kaggle.com/mohitsital/random-forest-hyperparameter-tuning">Mohit</a><br></li>
+        <li><a href="https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74">Will Koehrsen</a><br></li>
+      </ul>
+    </td>
   </tr>
 
   <tr>
