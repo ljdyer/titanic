@@ -2,7 +2,7 @@
 
 Competition overview [here](https://www.kaggle.com/c/titanic/overview)
 
-Focusing on applying one technique at a time, referring to a range of different tutorials to build up a learning journal and library of resources for future reference (as opposed to just trying to maximise my score as quickly as possible).
+Focusing on applying one new technique at a time, referring to a range of different tutorials to ensure I fully understand what I'm doing at each step as opposed to just trying to maximise my score in the shortest possible time. Building up a learning journal and library of resources as I go.
 
 <table style="margin-left:auto; margin-right:auto">
 
